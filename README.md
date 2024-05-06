@@ -1,4 +1,6 @@
 # Footy
-just some data analytics on football
+Just some data analytics on football..
 
 ![Alt text](image.png)
+
+![Alt text](image-1.png)
