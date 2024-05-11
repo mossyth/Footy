@@ -1,4 +1,4 @@
-,Player,Pos,Goals,Shots,SOT%,Sh/90,G/Sh,Dist,xG,npxG,np:g-xG,SCA/90,SCA(TO),GCA/90,Season
+,Player,Pos,Goals,Shots,SOT%,Sh/90,G/Sh,Dist,xG,npxG,np:g-xG,SCA/90,SCA(TakeOn),GCA/90,Season
 0,Bukayo Saka,FW,0.51,3.17,30.0,3.17,0.1,16.5,0.48,0.33,-0.01,5.8,0.32,0.67,2024
 1,Kai Havertz,"MF,FW",0.44,2.16,44.1,2.16,0.19,12.5,0.4,0.37,0.03,3.59,0.11,0.77,2024
 2,Gabriel Martinelli,FW,0.28,2.59,32.7,2.6,0.11,15.7,0.31,0.31,-0.02,3.97,0.52,0.52,2024
