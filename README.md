@@ -6,7 +6,7 @@ mostly Arsenal related...
 Below is an example of some visualisations I have created!
 
 This figure plots a radar chart comparing an Arsenal player (Bukayo Saka) from the 22/23 season to the 23/24 season.
-![22/23 vs 23/24 Saka](/outputs/arsenal/Saka2023vsSaka2024.png)
+![22/23 vs 23/24 Saka](/outputs/arsenal/Saka2023vsSaka2024.jpg)
 
 And this figure compares Aaron Ramsdale (22/23) to David Raya (23/24).
 ![22/23 vs 23/24 GK](/outputs/arsenal/Ramsdale2023vsRaya2024.jpg)
