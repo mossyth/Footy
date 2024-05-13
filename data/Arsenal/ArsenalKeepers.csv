@@ -1,4 +1,4 @@
-,Player,Nation,Position,Age,90s,GA,PKGA,CKGA,OG,PSxG,PSxG/SoT,PSxG+/-GA,LaunchCmp,LaunchAtt,LaunchCmp%,PassesAtt,ThrowsAtt,Launch%,AvgPassLen,GKLaunch%,AvgGKLen,CrossesStop%,OutsidePenActions,OutsidePenActions/90,AvgDistActions,Season
-0,David Raya,es ESP,GK,28-237,30.0,0.77,0.07,0.17,0.03,0.66,0.27,-0.08,4.37,11.7,37.4,30.2,4.97,32.6,30.7,61.8,47.1,12.2,1.57,1.57,18.2,2024
-1,Aaron Ramsdale,eng ENG,GK,25-361,6.0,0.83,0.0,0.17,0.0,0.62,0.26,-0.22,3.17,11.5,27.5,28.2,5.0,34.9,33.3,52.6,41.4,17.4,1.5,1.5,14.6,2024
-2,Aaron Ramsdale,eng ENG,GK,24.0,38.0,1.13,0.08,0.16,0.03,1.05,0.28,-0.05,2.87,11.3,25.4,25.2,4.58,35.4,33.3,59.5,49.2,5.8,1.13,1.13,16.1,2023
+,Player,Pos,GA,PKGA,CKGA,PSxG,PSxG/SoT,PSxG+/-GA,LaunchCmp,LaunchAtt,LaunchCmp%,PassesAtt,Throws,Launch%,AvgPassLen,GKLaunch%,AvgGKLen,CrossesStop%,OPA,OPA/90,AvgDistActions,Season
+0,David Raya,GK,0.77,0.07,0.17,0.66,0.27,-0.08,4.37,11.7,37.4,30.2,4.97,32.6,30.7,61.8,47.1,12.2,1.57,1.57,18.2,2024
+1,Aaron Ramsdale,GK,0.83,0.0,0.17,0.62,0.26,-0.22,3.17,11.5,27.5,28.2,5.0,34.9,33.3,52.6,41.4,17.4,1.5,1.5,14.6,2024
+2,Aaron Ramsdale,GK,1.13,0.08,0.16,1.05,0.28,-0.05,2.87,11.3,25.4,25.2,4.58,35.4,33.3,59.5,49.2,5.8,1.13,1.13,16.1,2023
