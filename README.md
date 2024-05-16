@@ -30,3 +30,4 @@ The following plot compares the points/position relationship across two differen
 <p align="center">
 <img src="/outputs/PL/premline09-17vs18-24.png" width="500" height="550" />
 </p>
+Surprise, surprise, Peppy Surprise! I was right.. Pep Guardiola's City side are gaining more points per season than the title winners previous to their dominance. It also looks as though the relegation sides are gaining less points in the current era, so you wonder is the league actually less competitive now than before?
