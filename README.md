@@ -26,7 +26,7 @@ Another visualisation where I applied linear regression analysis to predict the 
 <img src="/outputs/PL/premline1824.png" width="500" height="500" />
 </p>
 
-The following plot compares the points/position relationship across two different PL <i> era's </i>. After Arsenal had agonisingly lost out to City again in their battle for the 23/24 Premier League, I believed that pre-City's dominance Arsenal would have been triumphant. As a coping mechanism, I was interested to see whether a team would need more points to win the league in the current era compared to previous years.
+The following plot compares the points/position relationship across two different PL "era's". After Arsenal had agonisingly lost out to City again in their battle for the 23/24 Premier League, I believed that pre-City's dominance Arsenal would have been triumphant. As a coping mechanism, I was interested to see whether a team would need more points to win the league in the current era compared to previous years.
 <p align="center">
 <img src="/outputs/PL/premline09-17vs18-24.png" width="550" height="520" />
 </p>
